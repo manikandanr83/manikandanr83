@@ -24,6 +24,14 @@
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
+**Cloud**
+
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Azure Fundamentals](https://img.shields.io/badge/Azure%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-333?style=for-the-badge)
+
+**Software Architecture & Design**
+
+![Software Architecture](https://img.shields.io/badge/Software%20Architecture-333?style=for-the-badge) ![OOP](https://img.shields.io/badge/OOP-333?style=for-the-badge) ![SOLID](https://img.shields.io/badge/SOLID-333?style=for-the-badge) ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-333?style=for-the-badge) ![UML/SysML](https://img.shields.io/badge/UML%2FSysML-333?style=for-the-badge) ![API Design](https://img.shields.io/badge/API%20Design-333?style=for-the-badge) ![Agile](https://img.shields.io/badge/Agile-333?style=for-the-badge)
+
 **Automotive & Embedded**
 
 ![CAN](https://img.shields.io/badge/CAN-333?style=for-the-badge) ![UDS](https://img.shields.io/badge/UDS-333?style=for-the-badge) ![AUTOSAR](https://img.shields.io/badge/AUTOSAR-333?style=for-the-badge) ![AURIX/TriCore](https://img.shields.io/badge/AURIX%2FTriCore-333?style=for-the-badge) ![Vector CANoe](https://img.shields.io/badge/Vector%20CANoe-333?style=for-the-badge) ![A2L](https://img.shields.io/badge/A2L-333?style=for-the-badge) ![ODX/PDX](https://img.shields.io/badge/ODX%2FPDX-333?style=for-the-badge) ![ISO 26262](https://img.shields.io/badge/ISO%2026262-333?style=for-the-badge) ![ASPICE](https://img.shields.io/badge/ASPICE-333?style=for-the-badge) ![ISO 21434](https://img.shields.io/badge/ISO%2021434-333?style=for-the-badge)
